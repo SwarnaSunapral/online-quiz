@@ -59,12 +59,10 @@ Modify `style.css` to change the look and feel of the app.
 
 ## Screenshots  
 
-1. **Start Screen**  
-   ![Start Screen](screenshot1.png)  
-
-2. **Quiz Screen**  
-   ![Quiz Screen](screenshot2.png)  
-
-3. **Result Screen**  
-   ![Result Screen](screenshot3.png)  
+1. Start Screen
+  
+2. Quiz Screen 
+  
+3. Result Screen 
+  
 
