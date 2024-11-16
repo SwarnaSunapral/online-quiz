@@ -57,12 +57,5 @@ This is an interactive quiz application built using HTML, CSS, and JavaScript. T
 ### Styling  
 Modify `style.css` to change the look and feel of the app.  
 
-## Screenshots  
 
-1. Start Screen
-  
-2. Quiz Screen 
-  
-3. Result Screen 
-  
 
